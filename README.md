@@ -16,10 +16,10 @@ This project explores the modeling and simulation of a humanoid robot in ROS. Th
 
 ## Technologies
 
-- ROS / ROS 2 — confirm the version used
-- URDF / Xacro — as applicable to the model
+- ROS 2 
+- URDF 
 - RViz
-- MoveIt — if configured and used
+- MoveIt 
 
 ## Repository Structure
 
