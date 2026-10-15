@@ -40,3 +40,5 @@ Simulation and visualization prototype.
 ## Author
 
 Kiran Joy T
+
+GitHub: [https://github.com/KiranJoyT]
